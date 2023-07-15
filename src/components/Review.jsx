@@ -4,7 +4,6 @@ import {
   BiChevronLeftCircle,
   BiChevronRightCircle,
 } from "react-icons/bi";
-import "../app.css";
 import data from "../data";
 const Review = () => {
   const [reviewIndex, setReviewIndex] = useState(0);
